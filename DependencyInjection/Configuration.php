@@ -14,7 +14,7 @@ class Configuration implements ConfigurationInterface
     {
         $treeBuilder = new TreeBuilder('ornicar_gravatar');
 
-        $rootNode->getRootNode()
+        $treeBuilder->getRootNode()
             ->children()
                 ->scalarNode('size')->defaultValue('80')->end()
                 ->scalarNode('rating')->defaultValue('g')->end()
