@@ -1,6 +1,6 @@
 {
-    "name": "ornicar/gravatar-bundle",
-    "description": "This bundles provides a Gravatar API various utilities to work with it in templates",
+    "name": "philetaylor/gravatar-bundle",
+    "description": "FORKED!!! This bundles provides a Gravatar API various utilities to work with it in templates",
     "keywords": ["symfony2", "gravatar", "templating", "twig"],
     "type": "symfony-bundle",
     "license": "MIT",
