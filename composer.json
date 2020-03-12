@@ -25,7 +25,7 @@
         "twig/twig" : "For gravatar twig extension usage"
     },
     "conflict": {
-        "twig/twig": "<1.12"
+        "twig/twig": ">=2"
     },
     "autoload": {
         "psr-0": {
